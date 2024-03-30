@@ -4,8 +4,8 @@ import organnels
 import assents
 import math
 from collections import defaultdict
-
-def addCell(dna, position, ATP, sostanze, dimension, organels):
+# ciao
+def addCell(dna, position, ATP, sostanze, dimension, organels): 
     nCell = len(dna["cells"])
     nuCell = 0
     if organels == "dna":
